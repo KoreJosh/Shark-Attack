@@ -4,7 +4,8 @@
 The project details about the various species of sharks and their attacks over the past 100 years in various countries of the world on various victims (male or female), young or old and the body parts of attacks.
 
 ## Data Source
-The datatset is a comma separated file  whichwas made available courtsey of Quantum Analytics.
+The datatset is a csv file format, made available courtsey of Quantum Analytics.
+[Download Here](https://drive.google.com/drive/folders/1-OJ5oa5NRijrxyVMO2RvzpXHFeBdZ4-t?usp=drive_link)
 
 ## Tools
 -Excel - For filtering and Cleaning
@@ -43,7 +44,7 @@ In the initial data preparation phase , we performed the following tasks:
 - Adults and Teens should be made aware of what to do incase of shark attacks, also publicity that would better inform them on measureed to taje before diving into water to prevent such attacks should be put in place.
 - This shark predominat to each area can be studied to better understand their pattern and futher prevent attacks.
 
-
+Interact with the dashoard [Here](https://public.tableau.com/app/profile/korede.joshua/viz/SharkAttack_16855780412670/Dashboard1)
 
 
 
