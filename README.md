@@ -1,4 +1,5 @@
 # Shark-Attack
+![](https://github.com/KoreJosh/Shark-Attack/blob/main/Shark%20attack.jpg)
 
 ## Project Overview
 The project details about the various species of sharks and their attacks over the past 100 years in various countries of the world on various victims (male or female), young or old and the body parts of attacks.
@@ -36,6 +37,9 @@ In the initial data preparation phase , we performed the following tasks:
 - More attacks were recoreded in the USA with over 2000 attacks as aginst any other countries.
 - Most Attacks were Fatal, as most body parts were missing or completely gone.
 - Young Adults and Teens were mostly the victims.
+  
+![](https://github.com/KoreJosh/Shark-Attack/blob/main/Tableau%20Public%20-%20Shark%20Attack%206_1_2023%201_17_07%20PM.png)
+  
 
 ## Recommendations
 
